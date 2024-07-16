@@ -1,0 +1,3 @@
+/home/nizoodxs/Desktop/repo/cpp/CMakeFiles/HelloWorld.dir
+/home/nizoodxs/Desktop/repo/cpp/CMakeFiles/edit_cache.dir
+/home/nizoodxs/Desktop/repo/cpp/CMakeFiles/rebuild_cache.dir
