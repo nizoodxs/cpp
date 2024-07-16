@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/nizoodxs/Desktop/repo/cpp/src/Log.cpp" "CMakeFiles/HelloWorld.dir/src/Log.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/Log.cpp.o.d"
   "/home/nizoodxs/Desktop/repo/cpp/src/Main.cpp" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o" "gcc" "CMakeFiles/HelloWorld.dir/src/Main.cpp.o.d"
   )
 
